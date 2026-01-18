@@ -3,10 +3,10 @@
     public class AdminType
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string School { get; set; }
-        public string College { get; set; }
-        public string Department { get; set; }
-        
+        public string Name { get; set; } = string.Empty;
+        public string School { get; set; } = string.Empty;
+        public string College { get; set; } = string.Empty;
+        public string Department { get; set; } = string.Empty;
+
     }
 }

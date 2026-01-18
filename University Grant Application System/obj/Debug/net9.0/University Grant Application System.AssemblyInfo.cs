@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("University Grant Application System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e36012e84687b602891d014f064a924da0a5a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("University Grant Application System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("University Grant Application System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

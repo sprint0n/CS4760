@@ -20,31 +20,12 @@ namespace University_Grant_Application_System.Pages.AdminDashboard
         }
 
         public IList<AdminType> AdminList { get;set; } = default!;
-        public List<AdminType> Staff {  get;set; }
 
         public async Task OnGetAsync()
         {
-            AdminList = new List<AdminType> 
-            { 
-                new AdminType 
-                { 
-                    Name = "Jane Doe", 
-                    School = "Engineering", 
-                    College = "College of Engineering", 
-                    Department = "Computer Science" 
-                }, 
-                new AdminType 
-                { 
-                    Name = "John Smith", 
-                    School = "Business", 
-                    College = "College of Business", 
-                    Department = "Accounting" 
-                } 
-            };
-
-            // ADD THIS WHEN DB IS READY, REPLACE WITH ABOVE. -- AdminList = await _context.Admin.ToListAsync();
-
+            AdminList = await _context.Admin.ToListAsync();
+        }
 
         }
     }
-}
+
