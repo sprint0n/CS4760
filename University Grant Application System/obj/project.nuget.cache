@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d0K/j49dUNQ=",
+  "dgSpecHash": "hT0PEE7VeNs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\logan\\OneDrive\\Documents\\WSU\\CS 4760\\University Grant Application System\\University Grant Application System.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\maxim\\source\\repos\\CS4760\\University Grant Application System\\University Grant Application System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,31 @@
+## Build output
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## ASP.NET / .NET Core
+appsettings.Development.json
+appsettings.Local.json
+
+## Logs
+*.log
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Node (if added later)
+node_modules/
+
+## OS-specific
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store

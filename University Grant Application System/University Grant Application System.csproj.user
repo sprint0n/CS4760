@@ -3,7 +3,10 @@
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> main
     <RazorPage_SelectedScaffolderID>RazorPageScaffolder</RazorPage_SelectedScaffolderID>
     <RazorPage_SelectedScaffolderCategoryPath>root/Common/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ViewDialogWidth>650</WebStackScaffolding_ViewDialogWidth>
@@ -15,6 +18,9 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>University_Grant_Application_System.Data.University_Grant_Application_SystemContext</WebStackScaffolding_DbContextTypeFullName>
+<<<<<<< HEAD
 >>>>>>> 84b7f52 (Added login and registration pages)
+=======
+>>>>>>> main
   </PropertyGroup>
 </Project>
